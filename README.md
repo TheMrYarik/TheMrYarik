@@ -1,6 +1,6 @@
-- 👋 Hi, I’m @TheMrYarik
-- 👀 I’m interested in Python
-- 🌱 I’m currently learning LUA
+- 👋 Hi, I’m TechPlayz
+- 👀 I’m interested in JavaScript, Python and C++
+- 🌱 I’m currently learning JavaScript
 
 <!---
 TheMrYarik/TheMrYarik is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
